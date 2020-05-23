@@ -16,5 +16,5 @@ Jhoan Andrey Parra Delgado
 v2
 =======
 Kenny Yim Romero
-Jhoan Andrey Parra eElgado
+Jhoan Andrey Parra Delgado
 >>>>>>> 17d3d8627f816199288de37961b595e0d7cc3569
